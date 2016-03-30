@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f7e2c04-2087-4613-9dfa-d28eca469c0d" name="Default" comment="test">
+    <list default="true" id="2f7e2c04-2087-4613-9dfa-d28eca469c0d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="F:\IntellijIdea\prog.kiev.ua(course Java OOP)\prog.kiev.ua.iml" afterPath="$PROJECT_DIR$/prog.kiev.ua(course Java OOP).iml" />
     </list>
     <ignored path="prog.kiev.ua.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -550,7 +551,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459375308488</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="rename">
+      <created>1459375475614</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1459375475614</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -589,7 +596,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
-    <option name="LAST_COMMIT_MESSAGE" value="test" />
+    <MESSAGE value="rename" />
+    <option name="LAST_COMMIT_MESSAGE" value="rename" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
