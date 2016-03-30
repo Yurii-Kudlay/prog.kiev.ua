@@ -1,4 +1,4 @@
-package lesson1;
+package ua.kiev.prog.lesson1;
 
 /**
  * Created by yurge on 29.03.2016.
@@ -16,8 +16,8 @@ public class Circle {
     }
 
     public static void main(String[] args) {
-        Circle circle = new Circle(7);
-        Circle circle2 = new Circle(5);
+        Circle circle = new Circle(5);
+        Circle circle2 = new Circle(3);
         System.out.println(circle.getSquare());
         System.out.println(circle2.getSquare());
     }
